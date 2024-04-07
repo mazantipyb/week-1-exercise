@@ -1,26 +1,19 @@
-header{
-    margin-top: 20px;
-    margin-bottom: 10px;
+nav {
+    float: left; 
 }
 
-nav {
-    padding: 10px;
-    width: 20%vw;
+aside {
+    float: right; 
 }
 
 article {
-    width: 70%vw;
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
-Sidebar {
-    width: 25%vw;
-    padding: 10px;
-    border: 1px solid black;
+    position: relative;
+    left:0;
+    width: 100;
+    
 }
 
 footer {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    background-color: lightgray;
+    padding: 10px;
 }
