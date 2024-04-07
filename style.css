@@ -1,11 +1,19 @@
-h1 {
-    color: red; text-align: center;
+#header{
+    color: red;
 }
 
-a {
-    text-decoration: underline; color: blue;
+.container {
+    font-size: 16px; background-color: lightgray;
 }
 
-body {
-    background-color: light gray;
+footer {
+    font-style: italic; color: green;
+}
+
+.highlight {
+    font-weight: bold; color: blue;
+}
+
+#header {
+    background-color: lightyellow; font-size: 24px;
 }
