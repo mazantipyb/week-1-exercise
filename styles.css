@@ -1,0 +1,26 @@
+header{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+nav {
+    padding: 10px;
+    width: 20%vw;
+}
+
+article {
+    width: 70%vw;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+Sidebar {
+    width: 25%vw;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+footer {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
